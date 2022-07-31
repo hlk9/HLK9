@@ -31,7 +31,7 @@ I quite like programming .NET because it can do many things I care about such as
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlk9&exclude_repo=&layout=compact&theme=dracula">
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hlk9&theme=blueberry">    
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hlk9&theme=blueberry&fire=FF7396&ring=FF7396">    
 </p>
 
 Contact me with: hoanglong.cmb@gmail.com
