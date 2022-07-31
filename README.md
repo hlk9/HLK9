@@ -11,17 +11,17 @@
 
 ### Some tools and languages I know _(inbasic)_
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-76549A.svg?style=for-the-badge&logo=visual-studio&logoColor=while)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-76549A.svg?style=for-the-badge&logo=visual-studio&logoColor=while)](https://visualstudio.microsoft.com/)
 ![C#](https://img.shields.io/badge/c%23-%23355764.svg?style=for-the-badge)
-![SublimeText](https://img.shields.io/badge/sublimetext-1B2430.svg?style=for-the-badge&logo=sublimetext&logoColor=while)
-![.Net](https://img.shields.io/badge/.NET-B2A4FF?style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078AA.svg?style=for-the-badge&logo=visual-studio-code&logoColor=while)
-![JavaScript](https://img.shields.io/badge/javascript-%23495C83.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![SublimeText](https://img.shields.io/badge/sublimetext-1B2430.svg?style=for-the-badge&logo=sublimetext&logoColor=while)](https://www.sublimetext.com/)
+[![.Net](https://img.shields.io/badge/.NET-B2A4FF?style=for-the-badge)](https://dotnet.microsoft.com/en-us/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078AA.svg?style=for-the-badge&logo=visual-studio-code&logoColor=while)](https://code.visualstudio.com/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23495C83.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 
 ![GitHub](https://img.shields.io/badge/github-%232C3639.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux Manjaro](https://img.shields.io/badge/manjaro-%2353BF9D.svg?style=for-the-badge&logo=manjaro&logoColor=white)
+[![Linux Manjaro](https://img.shields.io/badge/manjaro-%2353BF9D.svg?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/)
 ![Winform](https://img.shields.io/badge/winform-%23FF7396.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F77E21.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Git](https://img.shields.io/badge/git-%23F77E21.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 I quite like programming .NET because it can do many things I care about such as Cross-Platform programming with Xamarin, games with Unity and Web-App with Blazor, etc. I often pay attention to it.
 
