@@ -17,11 +17,15 @@
 ![.Net](https://img.shields.io/badge/.NET-B2A4FF?style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078AA.svg?style=for-the-badge&logo=visual-studio-code&logoColor=while)
 ![JavaScript](https://img.shields.io/badge/javascript-%23495C83.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 ![GitHub](https://img.shields.io/badge/github-%232C3639.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux Manjaro](https://img.shields.io/badge/manjaro-%2353BF9D.svg?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Winform](https://img.shields.io/badge/winform-%23FF7396.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F77E21.svg?style=for-the-badge&logo=git&logoColor=white)
 
+I quite like programming .NET because it can do many things I care about such as Cross-Platform programming with Xamarin, games with Unity and Web-App with Blazor, etc. I often pay attention to it.
 
+### Here is some information about my stats
 
 <p align="center">   
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlk9&layout=compact&theme=dracula">
@@ -30,10 +34,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlk9&theme=blueberry">    
 </p>
 
+Contact me with:
 
+[![Facebook](https://img.shields.io/badge/facebook-%230AA1DD.svg?style=for-the-badge)](https://facebook.com/hlong.cmb)
+[![Email](https://img.shields.io/badge/email-%23B20600.svg?style=for-the-badge&logo=email)](mailto:hoanglong.cmb@gmail.com)
 
-
-
+Thanks for coming here!
 
 
 <!--
