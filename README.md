@@ -12,7 +12,7 @@
 ### Some tools and languages I use usually
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-76549A.svg?style=for-the-badge&logo=visual-studio&logoColor=while)
-![C#](https://img.shields.io/badge/c%23-%23355764.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23355764.svg?style=for-the-badge)
 ![SublimeText](https://img.shields.io/badge/sublimetext-1B2430.svg?style=for-the-badge&logo=sublimetext&logoColor=while)
 ![.Net](https://img.shields.io/badge/.NET-B2A4FF?style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078AA.svg?style=for-the-badge&logo=visual-studio-code&logoColor=while)
