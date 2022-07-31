@@ -34,7 +34,7 @@ I quite like programming .NET because it can do many things I care about such as
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlk9&theme=blueberry">    
 </p>
 
-Contact me with:
+Contact me with: hoanglong.cmb@gmail.com
 
 [![Facebook](https://img.shields.io/badge/facebook-%230AA1DD.svg?style=for-the-badge)](https://facebook.com/hlong.cmb)
 [![Email](https://img.shields.io/badge/email-%23B20600.svg?style=for-the-badge&logo=email)](mailto:hoanglong.cmb@gmail.com)
