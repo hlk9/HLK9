@@ -9,7 +9,7 @@
 
 🙈 I like _CSharp_, haha!
 
-### Some tools and languages I use usually
+### Some tools and languages I know
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-76549A.svg?style=for-the-badge&logo=visual-studio&logoColor=while)
 ![C#](https://img.shields.io/badge/c%23-%23355764.svg?style=for-the-badge)
