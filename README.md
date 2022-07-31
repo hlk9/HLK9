@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there!!
+#### About myself
+My name is **Hoàng Duy Long**
+I'm currently is a student at **FPT Polytechnique - Hanoi**
+I have passion for Software, .NET and Cross-Platform
 
 <!--
 **HLK9/HLK9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
