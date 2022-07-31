@@ -7,7 +7,7 @@
 
 🔥 I have passion for Software, .NET and Cross-Platform
 
-🙈 I like _CSharp_, haha!
+🙈 I like **_CSharp_**, haha!
 
 ### Some tools and languages I know
 
