@@ -38,6 +38,7 @@ Contact me with: hoanglong.cmb@gmail.com
 
 [![Facebook](https://img.shields.io/badge/facebook-%230AA1DD.svg?style=for-the-badge)](https://facebook.com/hlong.cmb)
 [![Email](https://img.shields.io/badge/email-%23B20600.svg?style=for-the-badge&logo=email)](mailto:hoanglong.cmb@gmail.com)
+[![](https://visitcount.itsvg.in/api?id=hlk9&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 Thanks for coming here!
 
