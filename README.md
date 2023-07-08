@@ -22,6 +22,10 @@
 ![Linux Manjaro](https://img.shields.io/badge/manjaro-%2353BF9D.svg?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Winform](https://img.shields.io/badge/winform-%23FF7396.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F77E21.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/html-FF6666.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/javascript-F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=323330)
+![CSS](https://img.shields.io/badge/CSS-3C99DC.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MS%2DSQLServer-00758F.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 Hmm... Let's make it true
 
