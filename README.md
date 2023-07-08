@@ -23,7 +23,7 @@
 ![Winform](https://img.shields.io/badge/winform-%23FF7396.svg?style=for-the-badge&logo=windows&logoColor=white)
 [![Git](https://img.shields.io/badge/git-%23F77E21.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-I quite like programming .NET because it can do many things I care about such as Cross-Platform programming with Xamarin, games with Unity and Web-App with Blazor, etc. I often pay attention to it.
+Hmm... Let's make it true
 
 ### Here is some information about my stats
 
