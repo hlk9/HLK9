@@ -1,9 +1,11 @@
-## Hi there, Welcome!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B++Welcome+to+my+wall+!!!;I'm+Long%2C+nice+to+meet+you;You+can+see+more+information+below+%F0%9F%91%87)](https://git.io/typing-svg)
+
+
 ### About myself
 
 👤 My name is **Hoàng Duy Long**
 
-🎓 I'm currently is a 1st student at **FPT Polytechnique - Hanoi**
+🎓 I'm currently is a 2nd student at **FPT Polytechnique - Hanoi**
 
 🔥 I have passion for Software, .NET and Cross-Platform
 
@@ -29,14 +31,23 @@
 
 Hmm... Let's make it true
 
-### Here is some information about my stats
 
+### Here is some information about my stats
 <p align="center">   
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hlk9&exclude_repo=&layout=compact&theme=dracula">
 </p>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=hlk9&limit=5&theme=dracula&combine_all_yearly_contributions=true">    
+</p>
+
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlk9&theme=blueberry&fire=FF7396&ring=FF7396">    
 </p>
+
+
 
 Contact me with: hoanglong.cmb@gmail.com
 
