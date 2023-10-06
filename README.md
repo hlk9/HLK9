@@ -5,11 +5,11 @@
 
 👤 My name is **Hoàng Duy Long**
 
-🎓 I'm currently is a 2nd student at **FPT Polytechnique - Hanoi**
+🎓 I'm currently is a 2nd years student at **FPT Polytechnic - Hanoi**
 
 🔥 I have passion for Software, .NET and Cross-Platform
 
-🙈 I like **_CSharp_**, haha!
+🙈 I ❤️ **_CSharp_**, haha!
 
 ### Some tools and languages
 
