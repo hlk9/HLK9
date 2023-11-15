@@ -28,6 +28,9 @@
 ![JS](https://img.shields.io/badge/javascript-F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=323330)
 ![CSS](https://img.shields.io/badge/CSS-3C99DC.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MS%2DSQLServer-00758F.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 Hmm... Let's make it true
 
