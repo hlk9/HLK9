@@ -3,26 +3,24 @@
 
 ### About myself
 
-👤 My name is **Hoàng Duy Long**
+🌱 My name is **Hoàng Duy Long**
 
 🎓 I'm currently is a 2nd years student at **FPT Polytechnic - Hanoi**
 
-🔥 I have passion for Software, .NET and Cross-Platform
+🔭 I have passion for system, software and interested in cybersecurity =)
 
-🙈 I ❤️ **_CSharp_**, haha!
+⚡ **Let do it!**
 
 ### Some tools and languages
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-76549A.svg?style=for-the-badge&logo=visual-studio&logoColor=while)
-![C#](https://img.shields.io/badge/c%23-%23355764.svg?style=for-the-badge)
 ![SublimeText](https://img.shields.io/badge/sublimetext-1B2430.svg?style=for-the-badge&logo=sublimetext&logoColor=while)
 ![.Net](https://img.shields.io/badge/.NET-B2A4FF?style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078AA.svg?style=for-the-badge&logo=visual-studio-code&logoColor=while)
 ![Python](https://img.shields.io/badge/Python-%23495C83.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 ![Linux](https://img.shields.io/badge/linux-164B60.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%232C3639.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux Manjaro](https://img.shields.io/badge/manjaro-%2353BF9D.svg?style=for-the-badge&logo=manjaro&logoColor=white)
-![Winform](https://img.shields.io/badge/winform-%23FF7396.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F77E21.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-FF6666.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=323330)
@@ -31,9 +29,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-Hmm... Let's make it true
-
+![WireShark](https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### Here is some information about my stats
 <p align="center">   
