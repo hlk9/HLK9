@@ -7,7 +7,7 @@
 
 🎓 I'm currently is a 2nd years student at **FPT Polytechnic - Hanoi**
 
-🔭 I have passion for system, software and interested in cybersecurity =)
+🔭 I have passion for backend, software =)
 
 ⚡ **Let do it!**
 
