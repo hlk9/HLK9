@@ -5,7 +5,7 @@
 
 🌱 My name is **Hoàng Duy Long**
 
-🎓 I'm currently is a 2nd years student at **FPT Polytechnic - Hanoi**
+🎓 I'm currently is student at **Hanoi University of Industry**
 
 🔭 I have passion for backend, software =)
 
