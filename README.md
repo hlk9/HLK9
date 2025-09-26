@@ -11,6 +11,8 @@
 
 ⚡ **Let do it!**
 
+[![wakatime](https://wakatime.com/badge/user/fd8e7bcf-ed1d-4262-afee-862b7d908066.svg?style=flat-square)](https://wakatime.com/@fd8e7bcf-ed1d-4262-afee-862b7d908066)
+
 ### Some tools and languages
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-76549A.svg?style=for-the-badge&logo=visual-studio&logoColor=while)
